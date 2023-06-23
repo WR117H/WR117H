@@ -9,5 +9,5 @@
 
 My Public Address to Receive BTC: bc1qh244n62304zycnryx4dycuehxa07c9hgphlw9y
 
-Pay me via Trust Wallet: https://link.trustwallet.com/send?coin=0&address=bc1qh244n62304zycnryx4dycuehxa07c9hgphlw9y
+Pay me via Trust Wallet:https://link.trustwallet.com/send?coin=0&address=bc1qh244n62304zycnryx4dycuehxa07c9hgphlw9y
 
